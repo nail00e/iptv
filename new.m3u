@@ -89,8 +89,7 @@ http://live.mycamtv.com/arab.m3u8
 http://live.mycamtv.com/squirt.m3u8
 #EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="XXX",MyCamTV White
 http://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-id="XpandedTV.uk" tvg-logo="https://i.imgur.com/p4RR9GM.png" group-title="XXX" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Xpanded TV Studio Cam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+#EXTINF:-1 tvg-id="XpandedTV.uk" tvg-logo="https://i.imgur.com/p4RR9GM.png" group-title="XXX",Xpanded TV Studio Cam
 https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -104,7 +103,7 @@ https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1,XXX:SEXTREME_LA6
+#EXTINF:-1 tvg-id="SEXTREME_LA6" group-title="XXX", SEXTREme
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/12146
 #EXTINF:-1,XXX:SEXTREME_LA5
 http://ultra-premium-pro.xyz:8080/Bruno/Bruno/12147
